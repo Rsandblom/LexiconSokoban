@@ -1,0 +1,38 @@
+
+.MyCssClass{
+    background-color: blue;
+}
+body {
+    width: 665px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: lightgray;
+    
+}
+table {
+    border-collapse: collapse;  
+}
+td {
+    width: 35px;
+    height: 35px;
+}
+.wall {
+    background-image: url(images/wall.gif);
+}
+.empty {
+    background-image: url(images/empty.gif);
+    background-color:rgb(42, 42, 42);
+}
+.box {
+    background-image: url(images/box.gif);
+}
+.boxInGoal {
+    background-image: url(images/boxInGoal.gif);
+}
+.player {
+    background-image: url(images/player.gif);
+}
+.goal {
+    background-image: url(images/goal.gif);
+}
